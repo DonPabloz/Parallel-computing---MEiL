@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Spoko:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/Spoko_jar2</output-path>
+    <root id="archive" name="Spoko.jar">
+      <element id="module-output" name="Spoko" />
+    </root>
+  </artifact>
+</component>
